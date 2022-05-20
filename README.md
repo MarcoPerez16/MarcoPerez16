@@ -3,4 +3,4 @@
 - 🌱 I’m currently studying Software Engineering at Tec de Monterrey, located in Mexico City.
 - 💞️ I’m looking to collaborate on any topic related to web development, artifial intelligence or software developmen.
 - 📫 You can contact me at mupgutierrez@gmail.com.
-![Hola](https://github.com/MarcoPerez16/MarcoPerez16/blom/main/GitImagenes/DjangoPy.png)
+![Hola](https://github.com/MarcoPerez16/MarcoPerez16/blob/main/MarcoPerez16/GitImagenes/DjangoPy.png)
