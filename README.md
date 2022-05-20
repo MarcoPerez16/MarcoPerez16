@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @MarcoPerez16 or Marco Perez!
-- 👀 I’m interested in computer technlogy, artificial intelligence and almost every topic related to computers.
-- 🌱 I’m currently studying Software Engineering at Tec de Monterrey, located in Mexico City.
-- 💞️ I’m looking to collaborate on any topic related to web development, artifial intelligence or software developmen.
-- 📫 You can contact me at mupgutierrez@gmail.com.
-
+## Marco Uriel Pérez Gutiérrez 
+### Wed Development and Software Development
+- I’m currently studying Software Engineering at Tec de Monterrey, located in Mexico City
+- My main topics are web development, software development and artifial intelligence
+- You can contact me at mupgutierrez@gmail.com :)
+### In my github you will find projects of Web Development, created with HTML, CSS, BOOTSTRAP, DJANGO and SQLlite.
+### Also you will find projects of software development created with Python, C++ or C#.
 
 <img src="GitImagenes/DjangoPy.png" alt="Django" max-width="100%" height="200">
 <img src="GitImagenes/BootStrap.png" alt="Boostrap" max-width="100%" height="200">
