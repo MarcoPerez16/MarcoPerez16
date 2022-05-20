@@ -5,4 +5,4 @@
 - 📫 You can contact me at mupgutierrez@gmail.com.
 
 ![Hola](GitImagenes/DjangoPy.png)
-<img src="GitImagenes/DjangoPy.png">
+<img src="GitImagenes/DjangoPy.png" width="400" height="341">
