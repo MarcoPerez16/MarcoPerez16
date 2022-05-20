@@ -6,7 +6,7 @@
 
 
 <img src="GitImagenes/DjangoPy.png" alt="Django" max-width="100%" height="200">
-<img src="GitImagenes/BootStrap.png" alt="Boostrap" width="100%" height="200">
-<img src="GitImagenes/HTML.png" alt="HTML" width="100%" height="200">
-<img src="GitImagenes/C#.png" alt="C#" width="100%" height="200">
-<img src="GitImagenes/C++.png" alt="C++" width="100%" height="200">
+<img src="GitImagenes/BootStrap.png" alt="Boostrap" max-width="100%" height="200">
+<img src="GitImagenes/HTML.jpg" alt="HTML" max-width="100%" height="200">
+<img src="GitImagenes/c#.png" alt="C#" max-width="100%" height="200">
+<img src="GitImagenes/C++.webp" alt="C++" max-width="100%" height="200">
