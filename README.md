@@ -13,6 +13,5 @@
   <img src="GitImagenes/BootStrap.png" alt="Boostrap" width=250px height="100%">
   <img src="GitImagenes/HTML.jpg" alt="HTML" width=250px height="100%">
   <img src="GitImagenes/csharp.png" alt="C#" width=150px height="100%">
-  <img src="GitImagenes/C++.webp" alt="C++" width=250px height=100%>
  </div>
   
