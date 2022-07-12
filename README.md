@@ -8,7 +8,7 @@
 #### In my github you will find projects of Web Development, created with HTML, CSS, BOOTSTRAP, DJANGO and SQLlite.
 #### Also you will find projects of software development created with Python, C++ or C#.
 
-<img src="GitImagenes/DjangoPy.png" alt="Django" width=1000px height="100%">
+<img src="GitImagenes/DjangoPy.png" alt="Django" width=200px height="100%">
 <img src="GitImagenes/BootStrap.png" alt="Boostrap" max-width="100%" height="100%">
 <img src="GitImagenes/HTML.jpg" alt="HTML" max-width="100%" height="100%">
 <img src="GitImagenes/csharp.png" alt="C#" max-width="100%" height="100%">
