@@ -9,10 +9,10 @@
 #### Also you will find projects of software development created with Python, C++ or C#.
 
 <div style="display:flex">
-  <img src="GitImagenes/DjangoPy.png" alt="Django" width=300px height="100%">
-  <img src="GitImagenes/BootStrap.png" alt="Boostrap" width=300px height="100%">
-  <img src="GitImagenes/HTML.jpg" alt="HTML" width=300px height="100%">
-  <img src="GitImagenes/csharp.png" alt="C#" width=300px height="100%">
-  <img src="GitImagenes/C++.webp" alt="C++" width=300px height=100%>
+  <img src="GitImagenes/DjangoPy.png" alt="Django" width=250px height="100%">
+  <img src="GitImagenes/BootStrap.png" alt="Boostrap" width=250px height="100%">
+  <img src="GitImagenes/HTML.jpg" alt="HTML" width=250px height="100%">
+  <img src="GitImagenes/csharp.png" alt="C#" width=150px height="100%">
+  <img src="GitImagenes/C++.webp" alt="C++" width=250px height=100%>
  </div>
   
