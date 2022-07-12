@@ -5,8 +5,8 @@
 - You can contact me at mupgutierrez@gmail.com :)
 - My LikedIn is https://www.linkedin.com/in/marco-p%C3%A9rez-guti%C3%A9rrez-98604b202/?locale=en_US 
 
-#### In my github you will find projects of Web Development, created with HTML, CSS, BOOTSTRAP, DJANGO and SQLlite.
-#### Also you will find projects of Websoftware development created with Django, Python, React, JavaScript, C#, etc.
+#### In my github you will find projects of Web Development, created with HTML, CSS, React, JavaScript, JQuery, Bootstrap, Django and SQLlite.
+#### Also you will find projects of Software development created with Python, C++ and C#.
 
 <div style="display:flex">
   <img src="GitImagenes/DjangoPy.png" alt="Django" width=250px height="100%">
