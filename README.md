@@ -6,7 +6,7 @@
 - My LikedIn is https://www.linkedin.com/in/marco-p%C3%A9rez-guti%C3%A9rrez-98604b202/?locale=en_US 
 
 #### In my github you will find projects of Web Development, created with HTML, CSS, BOOTSTRAP, DJANGO and SQLlite.
-#### Also you will find projects of software development created with Django, Python, React, JavaScript, C#, etc.
+#### Also you will find projects of Websoftware development created with Django, Python, React, JavaScript, C#, etc.
 
 <div style="display:flex">
   <img src="GitImagenes/DjangoPy.png" alt="Django" width=250px height="100%">
