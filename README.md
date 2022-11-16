@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TATA Consultancy Services**
 
-- 🌱 I’m currently learning **Express and MongoDB**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **any topic related to Web Development :)**
 
