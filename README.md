@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **TATA Consultancy Services**
 
-- 🌱 I’m currently learning **MongoDB**
-
 - 👯 I’m looking to collaborate on **any topic related to Web Development :)**
 
 - 👨‍💻 A little bit of my projects are available at [https://github.com/MarcoPerez16?tab=repositories](https://github.com/MarcoPerez16?tab=repositories)
@@ -14,8 +12,6 @@
 - 💬 Ask me about **React, Django, Javascript or any topic related to web.**
 
 - 📫 How to reach me **mupgutierrez@hotmail.com**
-
-- ⚡ Fun fact **I love dogs :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
