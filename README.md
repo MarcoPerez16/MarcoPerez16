@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoperez16&label=Profile%20views&color=0e75b6&style=flat" alt="marcoperez16" /> </p>
 
-- 🔭 I’m currently working on **TATA Consultancy Services**
+- 🔭 I’m currently working on **TATA Consultancy Services** as a Web Developer
 
 - 👯 I’m looking to collaborate on **any topic related to Web Development :)**
 
